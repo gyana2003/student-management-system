@@ -47,7 +47,7 @@ Before you begin, ensure you have:
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/YOUR-USERNAME/student-management-system.git
+git clone https://github.com/gyana2003/student-management-system.git
 cd student-management-system/backend
 ```
 
@@ -264,16 +264,17 @@ This project is licensed under the MIT License - see LICENSE file for details.
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)
-- LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
-- Email: your.email@example.com
+Gyana Ranjan Jena
+
+GitHub: https://github.com/gyana2003
+LinkedIn: https://www.linkedin.com/in/gyanaranjanjena72/
+Email: gyanaranjanjena452@gmail.com
 
 ## 📞 Support
 
 For issues, questions, or suggestions:
-1. Open an [Issue](https://github.com/YOUR-USERNAME/student-management-system/issues)
-2. Start a [Discussion](https://github.com/YOUR-USERNAME/student-management-system/discussions)
+1. Open an [Issue](https://github.com/gyana2003/student-management-system/issues)
+2. Start a [Discussion](https://github.com/gyana2003/student-management-system/discussions)
 
 ## 🙏 Acknowledgments
 
