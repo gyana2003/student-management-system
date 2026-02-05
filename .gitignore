@@ -1,0 +1,87 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+.flattened-pom.xml
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+*.iml
+*.iws
+*.ipr
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
+*.vsix
+
+# Gradle
+build/
+.gradle
+gradle-app.setting
+!gradle-wrapper.jar
+.gradletasknamecache
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+hs_err_pid*
+.mtj.tmp/
+
+# Spring Boot
+*.log
+logs/
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# Database
+*.db
+*.sqlite
+.h2.server.properties
+h2.trace.db
+
+# Environment
+.env
+.env.local
+.env.*.local
+.env.production
+.DS_Store
+
+# OS
+Thumbs.db
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Misc
+out/
+*.orig
+**/node_modules/
+dist/
+coverage/
+
+# Project specific
+.metadata/
+*.properties~
